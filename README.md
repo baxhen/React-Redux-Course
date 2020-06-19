@@ -16,7 +16,7 @@
 
 ### Description
 
-#### Use of components into componentes, faker library, [semantic](https://semantic-ui.com/) for styles, props all using typescript. 
+#### Use of components into componentes, [Faker](https://github.com/marak/Faker.js/) library, [Semantic](https://semantic-ui.com/) for styles, props all using typescript. 
 
 <p align="center">
   <img alt="components" src=".github/components.png" width="100%">
