@@ -16,11 +16,24 @@
 
 ### Description
 
-#### Use of components into componentes, [Faker](https://github.com/marak/Faker.js/) library, [Semantic](https://semantic-ui.com/) for styles, props all using typescript. 
+#### Use of components into componentes, [Faker](https://github.com/marak/Faker.js/) library, [Semantic](https://semantic-ui.com/) for styles, props, function components - all using typescript. 
 
 <p align="center">
-  <img alt="components" src=".github/components.png" width="100%">
-  
+  <img alt="components" src=".github/components.png" width="50%">  
+</p>
+
+
+## Seasons
+
+### Description
+
+#### Get users physical location, determine the current month, change text and styling based on location and month, class components, geolocation API, conditional rendering, loading spinner, config best practice, default props - all using typescript. 
+
+<p align="center">
+  <img alt="components" src=".github/seasons01.png" width="100%">  
+  <img alt="components" src=".github/seasons02.png" width="100%"> 
+  <img alt="components" src=".github/seasons03.png" width="100%"> 
+  <img alt="components" src=".github/seasons04.png" width="100%"> 
 </p>
 
 
