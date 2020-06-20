@@ -43,6 +43,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org)
 
 
