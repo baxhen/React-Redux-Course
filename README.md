@@ -38,6 +38,20 @@
 
 
 
+## Pics
+
+### Description
+
+#### Get feedback from the user, fetch data from some outside API or server, show list of records, get a search term from user, use that term to make a request to an API, take the feched images and show them on the screen in a list, structure components folder, Controlled element, get info from DOM Elements, key for root element when rendering a list - all using typescript. 
+
+<p align="center">
+  <img alt="components" src=".github/pics01.png" width="100%">  
+  <img alt="components" src=".github/pics02.png" width="100%">   
+</p>
+
+
+
+
 ## 🚀  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
