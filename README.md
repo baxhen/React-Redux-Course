@@ -50,6 +50,21 @@
 </p>
 
 
+## Videos
+
+### Description
+
+#### Review of all learned till now, youtube public API - all using typescript. 
+
+<p align="center">
+  <img alt="components" src=".github/videos01.png" width="100%">  
+  <img alt="components" src=".github/videos02.png" width="100%"> 
+  <img alt="components" src=".github/videos03.png" width="100%">  
+  <img alt="components" src=".github/videos04.png" width="100%">
+  <img alt="components" src=".github/videos05.png" width="100%">     
+</p>
+
+
 
 
 ## 🚀  Tecnologias
