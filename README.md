@@ -67,6 +67,23 @@
 
 
 
+## Songs
+
+### Description
+
+#### Use redux to manage react state using react-redux library, modify and access states  - all using typescript. 
+
+<p align="center">
+  <img alt="components" src=".github/videos01.png" width="100%">  
+  <img alt="components" src=".github/videos02.png" width="100%"> 
+  <img alt="components" src=".github/videos03.png" width="100%">  
+  <img alt="components" src=".github/videos04.png" width="100%">
+  <img alt="components" src=".github/videos05.png" width="100%">     
+</p>
+
+
+
+
 ## 🚀  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -74,6 +91,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org)
+- [Redux](https://redux.js.org/)
 
 
 
