@@ -74,11 +74,9 @@
 #### Use redux to manage react state using react-redux library, modify and access states  - all using typescript. 
 
 <p align="center">
-  <img alt="components" src=".github/videos01.png" width="100%">  
-  <img alt="components" src=".github/videos02.png" width="100%"> 
-  <img alt="components" src=".github/videos03.png" width="100%">  
-  <img alt="components" src=".github/videos04.png" width="100%">
-  <img alt="components" src=".github/videos05.png" width="100%">     
+  <img alt="components" src=".github/songs01.png" width="100%">  
+  <img alt="components" src=".github/songs02.png" width="100%"> 
+  <img alt="components" src=".github/songs03.png" width="100%">        
 </p>
 
 
