@@ -80,6 +80,29 @@
 </p>
 
 
+## Blog
+
+### Description
+
+#### Feed redux with API data, Middleware redux-thunk to deal with asynca actions, API JsonPlaceholder, lodash to remove a property froman object, lodash library memoized, solve overfetch problem  - all using typescript. 
+
+<p align="center">
+  <img alt="components" src=".github/blog.png" width="100%">           
+</p>
+
+
+
+## Streams Twich.tv core clone
+
+### Description
+
+#### React-router, Browser-router, Routes, redux-forms, Rest API, url based selectin vs reducer selection - all using typescript. 
+
+<p align="center">
+  <img alt="components" src=".github/blog.png" width="100%">           
+</p>
+
+
 
 
 ## 🚀  Tecnologias
