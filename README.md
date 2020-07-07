@@ -96,10 +96,15 @@
 
 ### Description
 
-#### React-router, Browser-router, Routes, redux-forms, Rest API, url based selectin vs reducer selection - all using typescript. 
+#### React-router, Browser-router, Routes, redux-forms, Rest API, url based selection vs reducer selection, ComponentWilUnmount - all using typescript. 
 
 <p align="center">
-  <img alt="components" src=".github/blog.png" width="100%">           
+  <img alt="components" src=".github/streams01.png" width="100%">   
+  <img alt="components" src=".github/streams02.png" width="100%"> 
+  <img alt="components" src=".github/streams03.png" width="100%"> 
+  <img alt="components" src=".github/streams04.png" width="100%"> 
+  <img alt="components" src=".github/streams05.png" width="100%"> 
+  <img alt="components" src=".github/streams06.png" width="100%">         
 </p>
 
 

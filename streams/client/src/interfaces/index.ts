@@ -26,6 +26,7 @@ export interface MyProps {
         }
     }
     stream:StreamState;
+    videoRef:any;
 }
 
 export interface FormValues {
